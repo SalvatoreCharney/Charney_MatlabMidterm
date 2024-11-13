@@ -1,3 +1,10 @@
+% Author Name: Salvatore Charney
+% Email: charne92@rowan.edu
+% Course: MATLAB Programming - Fall 2024
+% Assignment: Matlab Midterm
+% Task: Creating a Student Database with Display Charts
+% Date: November 13, 2024
+
 % Initialize database
 db = StudentDatabase();
 
